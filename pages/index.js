@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>Whatsapp Verify</div>;
+  return <div>Face FaceTime Verify</div>;
 }

@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Whatsapp Verify</title>
+        <title>FaceTime Verify</title>
       </Head>
 
       <ToastContainer />
